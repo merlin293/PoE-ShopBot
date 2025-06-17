@@ -1,6 +1,6 @@
-# PoE Price Bot
+# PoE Shop Bot
 
-**PoE Price Bot** is a tool for quickly checking the prices of items and currencies in the game Path of Exile.  
+**PoE Shop Bot** is a tool for quickly checking the prices of items and currencies in the game Path of Exile.  
 It uses the official PoE Trade API and offers a GUI, voice control, and clipboard monitoring for convenience.
 
 ---
@@ -20,7 +20,7 @@ It uses the official PoE Trade API and offers a GUI, voice control, and clipboar
 
 ## 📸 Screenshot
 
-![Screenshot of PoE Price Bot](https://github.com/merlin293/PoE-ShopBot/releases/download/v0.0.1/screenshot1.png)
+![Screenshot of PoE Shop Bot](https://github.com/merlin293/PoE-ShopBot/releases/download/v0.0.1/screenshot1.png)
 
 ---
 
