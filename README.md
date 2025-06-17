@@ -20,13 +20,13 @@ It uses the official PoE Trade API and offers a GUI, voice control, and clipboar
 
 ## 📸 Screenshot
 
-![Screenshot of PoE Price Bot](https://github.com/merlin293/PoE-ShopBot/releases/download/v1.0.0/screenshot1.png)
+![Screenshot of PoE Price Bot](https://github.com/merlin293/PoE-ShopBot/releases/download/v0.0.1/screenshot1.png)
 
 ---
 
 ## 💾 Download
 
-➡️ [Download poe_shopbot.exe (v1.0.0)](https://github.com/merlin293/PoE-ShopBot/releases/download/v1.0.0/poe_shopbot.exe)
+➡️ [Download poe_shopbot.exe (v1.0.0)](https://github.com/merlin293/PoE-ShopBot/releases/download/v0.0.1/poe_shopbot.exe)
 
 > ⚠️ If Windows Defender warns you, click “More info” → “Run anyway”.
 
