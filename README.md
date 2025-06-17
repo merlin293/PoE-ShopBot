@@ -7,7 +7,7 @@ It uses the official PoE Trade API and offers a GUI, voice control, and clipboar
 
 ## 🔍 Features
 
-- 🎤 **Voice Control** – e.g., say `"Divine Orb"` or `"price of Mirror of Kalandra"` to get results.
+- 🎤 **Voice Control** – e.g., say `"Divine Orb"` to get results.
 - 📋 **Clipboard Monitoring** – copy an item in-game (Ctrl+C) and the bot fetches the price automatically.
 - 💬 **Copy Trade Messages** – double-click results to get a ready-made whisper message.
 - 🎮 **League Selection** – choose the active Path of Exile league.
