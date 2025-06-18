@@ -26,7 +26,7 @@ It uses the official PoE Trade API and offers a GUI, voice control, and clipboar
 
 ## 💾 Download
 
-➡️ [Download poe_shopbot.exe (v0.0.1)](https://github.com/merlin293/PoE-ShopBot/releases/download/v0.0.1/poe_shopbot.exe)
+➡️ [Download poe_shopbot.exe](https://github.com/merlin293/PoE-ShopBot/releases/latest/download/poe_shopbot.exe)
 
 > ⚠️ If Windows Defender warns you, click “More info” → “Run anyway”.
 
@@ -42,7 +42,7 @@ It uses the official PoE Trade API and offers a GUI, voice control, and clipboar
 
 ## 🚀 How to Use
 
-1. **Download** `poe_shopbot.exe` from the [Releases](https://github.com/merlin293/PoE-ShopBot/releases) page.
+1. **Download** `poe_shopbot.exe` from the [Releases](https://github.com/merlin293/PoE-ShopBot/releases/latest/download/poe_shopbot.exe) page.
 2. **Run the program** – it will create `config.ini` and `phonetics.cache`.
 3. **Configure settings** in the GUI:
    - Select league
