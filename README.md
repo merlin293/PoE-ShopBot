@@ -24,6 +24,12 @@ It uses the official PoE Trade API and offers a GUI, voice control, and clipboar
 
 ---
 
+📺 **Video demo:**
+
+👉 [Watch on YouTube](https://www.youtube.com/watch?v=WMpqRWVSouw)
+
+---
+
 ## 💾 Download
 
 ➡️ [Download poe_shopbot.exe](https://github.com/merlin293/PoE-ShopBot/releases/latest/download/poe_shopbot.exe)
